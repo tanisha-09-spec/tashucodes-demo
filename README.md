@@ -1,3 +1,4 @@
 # tashucodes-demo
-This is my first Git Repository
-Authur- Tanisha Prajapati
+This is my first Git Repository.
+<b>
+Author- Tanisha Prajapati
